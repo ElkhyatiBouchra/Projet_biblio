@@ -1,0 +1,17 @@
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/impl/LecteurDaoImpl.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/service/LecteurService.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/service/impl/BookServiceImpl.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/impl/BookDaoImpl.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/ThemeDao.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/app/business/bo/Lecteur.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/LecteurDAO.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/service/BookService.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/service/impl/LecteurServiceImpl.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/app/business/bo/Theme.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/app/business/bo/Book.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/app/business/bo/Rayon.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/impl/ThemeDaoImpl.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/RayonDao.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/BookDao.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/business/dao/impl/RayonDaoImpl.java
+/home/bouchra/GeneralWorkSpace/jeeworkspace/biblio_bll/src/main/java/com/firstprojet/biblio_bll/App.java
